@@ -51,7 +51,7 @@ Native APNs push notifications for sideloaded WhatsApp with Watusi.
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📦 Watusi Patcher</h3>
+<h3 align="center">📦 IPA Patcher</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Private_Alpha-orange?style=flat-square"/>
